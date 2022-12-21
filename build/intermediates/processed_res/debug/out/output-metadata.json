@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "PROCESSED_RES",
+    "kind": "Directory"
+  },
+  "applicationId": "com.soundhound.android.houndify.sample",
+  "variantName": "debug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "versionCode": 1110,
+      "versionName": "1.6.1",
+      "outputFile": "resources-debug.ap_"
+    }
+  ]
+}

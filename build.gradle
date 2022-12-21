@@ -1,0 +1,112 @@
+buildscript {
+    repositories {
+        jcenter()
+        maven {
+            url 'https://maven.google.com/'
+            name 'Google'
+        }
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:4.2.1'
+    }
+}
+
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 30
+
+    defaultConfig {
+        applicationId "com.soundhound.android.houndify.sample"
+        minSdkVersion 16
+        multiDexEnabled = true;
+        targetSdkVersion 30
+        versionCode 1110
+        versionName "1.6.1"
+
+        ndk {
+            /**
+             * When targeting a specific platform, remove unwanted ones to save size.
+             */
+            abiFilters "arm64-v8a", "x86_64", "armeabi-v7a", "x86"
+        }
+    }
+
+    lintOptions {
+        abortOnError false
+    }
+
+    packagingOptions {
+        exclude 'META-INF/DEPENDENCIES.txt'
+        exclude 'META-INF/LICENSE.txt'
+        exclude 'META-INF/NOTICE.txt'
+        exclude 'META-INF/NOTICE'
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/DEPENDENCIES'
+        exclude 'META-INF/notice.txt'
+        exclude 'META-INF/license.txt'
+        exclude 'META-INF/dependencies.txt'
+        exclude 'META-INF/LGPL2.1'
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+repositories {
+
+    // Houndify public maven repo
+    maven {
+        url 'https://houndify.com/maven/'
+        name 'Houndify'
+    }
+
+    // Local maven repo
+    maven {
+        url './maven'
+        name 'Local'
+    }
+
+    // Google public maven repo
+    maven {
+        url 'https://maven.google.com/'
+        name 'Google'
+    }
+
+    // Public maven repo
+    mavenCentral()
+    jcenter()
+}
+
+dependencies {
+
+    implementation 'androidx.core:core:1.0.0'
+    implementation 'androidx.cardview:cardview:1.0.0'
+    implementation 'androidx.appcompat:appcompat:1.0.0'
+
+    implementation 'hound.android:hound-sdk:1.6.0'
+
+    // Houndify Library
+    implementation("$HOUNDIFY_GROUP_ID:$HOUNDIFY_ARTIFACT_ID:$HOUNDIFY_VERSION_NAME") {
+        /**
+         * These are the optional modules that may be excluded from the dependency to reduce size.
+         * Uncomment the ones that are not used.
+         */
+        // exclude group: 'com.squareup.okhttp3', module: 'okhttp' // WebSocket support
+        // exclude group: 'soundhound.android', module: 'speex' // Speex audio encoder
+        // exclude group: 'soundhound.android', module: 'ogg-opus-encoder' // Ogg-Opus audio encoder
+    }
+
+    // Houndify Legacy Models (optional)
+    implementation 'hound.android:hound-models-legacy:1.4.0'
+
+    // Phrase Spotter Library
+    implementation "$PHRASESPOTTER_GROUP_ID:$PHRASESPOTTER_ARTIFACT_ID:$PHRASESPOTTER_VERSION_NAME"
+    implementation 'com.google.android.material:material:1.4.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+}

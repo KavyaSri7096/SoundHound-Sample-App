@@ -1,0 +1,94 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.soundhound.android.houndify.sample"
+4    android:versionCode="1110"
+5    android:versionName="1.6.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+12-->C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:6:5-71
+12-->C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:6:22-68
+13    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+13-->C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:7:5-81
+13-->C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:7:22-78
+14    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" /> <!-- Optional: accessing telephony connection state to provide debugging info -->
+14-->C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:8:5-79
+14-->C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:8:22-76
+15    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+15-->C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:9:5-75
+15-->C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:9:22-72
+16    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+16-->[hound.android:hound-sdk-core:1.6.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\31fd0a797b94ecd26e8d43840d0dd606\transformed\jetified-hound-sdk-core-1.6.0\AndroidManifest.xml:10:5-76
+16-->[hound.android:hound-sdk-core:1.6.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\31fd0a797b94ecd26e8d43840d0dd606\transformed\jetified-hound-sdk-core-1.6.0\AndroidManifest.xml:10:22-73
+17
+18    <application
+18-->C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:11:5-35:19
+19        android:name="androidx.multidex.MultiDexApplication"
+20        android:allowBackup="true"
+20-->C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:12:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.5.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\9bfef590c5ae1099605217105755b44f\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+22        android:debuggable="true"
+23        android:icon="@mipmap/ic_launcher"
+23-->C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:13:9-43
+24        android:label="@string/app_name"
+24-->C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:14:9-41
+25        android:testOnly="true"
+26        android:theme="@style/Theme.AppCompat.Light.DarkActionBar" >
+26-->C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:15:9-67
+27        <activity
+27-->C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:16:9-22:20
+28            android:name="com.houndify.sample.MusicActivity"
+28-->C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:17:13-42
+29            android:exported="false" >
+29-->C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:18:13-37
+30            <meta-data
+30-->C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:19:13-21:36
+31                android:name="android.app.lib_name"
+31-->C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:20:17-52
+32                android:value="" />
+32-->C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:21:17-33
+33        </activity>
+34        <activity
+34-->C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:23:9-31:20
+35            android:name="com.houndify.sample.StartActivity"
+35-->C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:24:13-42
+36            android:label="@string/app_name" >
+36-->C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:25:13-45
+37            <intent-filter>
+37-->C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:26:13-30:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:27:17-69
+38-->C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:27:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:29:17-77
+40-->C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:29:27-74
+41            </intent-filter>
+42        </activity>
+43        <activity android:name="com.houndify.sample.HoundifyVoiceSearchWithPhraseSpotterActivity" />
+43-->C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:32:9-82
+43-->C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:32:19-79
+44        <activity android:name="com.houndify.sample.CustomVoiceSearchActivity" />
+44-->C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:33:9-63
+44-->C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:33:19-60
+45        <activity android:name="com.houndify.sample.CustomTextSearchActivity" />
+45-->C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:34:9-62
+45-->C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:34:19-59
+46        <activity
+46-->[hound.android:hound-sdk:1.6.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\d0d72daec0b6d1b442e906ff73d27437\transformed\jetified-hound-sdk-1.6.0\AndroidManifest.xml:10:9-12:56
+47            android:name="com.hound.android.fd.HoundifyVoiceSearchActivity"
+47-->[hound.android:hound-sdk:1.6.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\d0d72daec0b6d1b442e906ff73d27437\transformed\jetified-hound-sdk-1.6.0\AndroidManifest.xml:11:13-76
+48            android:theme="@style/houndify_Houndify" />
+48-->[hound.android:hound-sdk:1.6.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\d0d72daec0b6d1b442e906ff73d27437\transformed\jetified-hound-sdk-1.6.0\AndroidManifest.xml:12:13-53
+49    </application>
+50
+51</manifest>

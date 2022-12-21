@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\AJAY\\Downloads\\houndify-sdk-1.6.1\\houndify-sample-app\\build\\intermediates\\res\\merged\\debug\\layout_activity_hound_search.xml.flat",
+        "source": "C:\\Users\\AJAY\\Downloads\\houndify-sdk-1.6.1\\houndify-sample-app\\src\\main\\res\\layout\\activity_hound_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\AJAY\\Downloads\\houndify-sdk-1.6.1\\houndify-sample-app\\build\\intermediates\\res\\merged\\debug\\layout_activity_textsearch.xml.flat",
+        "source": "C:\\Users\\AJAY\\Downloads\\houndify-sdk-1.6.1\\houndify-sample-app\\src\\main\\res\\layout\\activity_textsearch.xml"
+    },
+    {
+        "merged": "C:\\Users\\AJAY\\Downloads\\houndify-sdk-1.6.1\\houndify-sample-app\\build\\intermediates\\res\\merged\\debug\\layout_edit_client_credentials_popup.xml.flat",
+        "source": "C:\\Users\\AJAY\\Downloads\\houndify-sdk-1.6.1\\houndify-sample-app\\src\\main\\res\\layout\\edit_client_credentials_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\AJAY\\Downloads\\houndify-sdk-1.6.1\\houndify-sample-app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\AJAY\\Downloads\\houndify-sdk-1.6.1\\houndify-sample-app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\AJAY\\Downloads\\houndify-sdk-1.6.1\\houndify-sample-app\\build\\intermediates\\res\\merged\\debug\\layout_activity_basic_search.xml.flat",
+        "source": "C:\\Users\\AJAY\\Downloads\\houndify-sdk-1.6.1\\houndify-sample-app\\src\\main\\res\\layout\\activity_basic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\AJAY\\Downloads\\houndify-sdk-1.6.1\\houndify-sample-app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\AJAY\\Downloads\\houndify-sdk-1.6.1\\houndify-sample-app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\AJAY\\Downloads\\houndify-sdk-1.6.1\\houndify-sample-app\\build\\intermediates\\res\\merged\\debug\\layout_item_sample.xml.flat",
+        "source": "C:\\Users\\AJAY\\Downloads\\houndify-sdk-1.6.1\\houndify-sample-app\\src\\main\\res\\layout\\item_sample.xml"
+    },
+    {
+        "merged": "C:\\Users\\AJAY\\Downloads\\houndify-sdk-1.6.1\\houndify-sample-app\\build\\intermediates\\res\\merged\\debug\\layout_activity_music.xml.flat",
+        "source": "C:\\Users\\AJAY\\Downloads\\houndify-sdk-1.6.1\\houndify-sample-app\\src\\main\\res\\layout\\activity_music.xml"
+    },
+    {
+        "merged": "C:\\Users\\AJAY\\Downloads\\houndify-sdk-1.6.1\\houndify-sample-app\\build\\intermediates\\res\\merged\\debug\\layout_activity_voice_search_phrase.xml.flat",
+        "source": "C:\\Users\\AJAY\\Downloads\\houndify-sdk-1.6.1\\houndify-sample-app\\src\\main\\res\\layout\\activity_voice_search_phrase.xml"
+    },
+    {
+        "merged": "C:\\Users\\AJAY\\Downloads\\houndify-sdk-1.6.1\\houndify-sample-app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\AJAY\\Downloads\\houndify-sdk-1.6.1\\houndify-sample-app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\AJAY\\Downloads\\houndify-sdk-1.6.1\\houndify-sample-app\\build\\intermediates\\res\\merged\\debug\\drawable_download.png.flat",
+        "source": "C:\\Users\\AJAY\\Downloads\\houndify-sdk-1.6.1\\houndify-sample-app\\src\\main\\res\\drawable\\download.png"
+    },
+    {
+        "merged": "C:\\Users\\AJAY\\Downloads\\houndify-sdk-1.6.1\\houndify-sample-app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\AJAY\\Downloads\\houndify-sdk-1.6.1\\houndify-sample-app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\AJAY\\Downloads\\houndify-sdk-1.6.1\\houndify-sample-app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\AJAY\\Downloads\\houndify-sdk-1.6.1\\houndify-sample-app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\AJAY\\Downloads\\houndify-sdk-1.6.1\\houndify-sample-app\\build\\intermediates\\res\\merged\\debug\\layout_activity_start.xml.flat",
+        "source": "C:\\Users\\AJAY\\Downloads\\houndify-sdk-1.6.1\\houndify-sample-app\\src\\main\\res\\layout\\activity_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\AJAY\\Downloads\\houndify-sdk-1.6.1\\houndify-sample-app\\build\\intermediates\\res\\merged\\debug\\raw_sound.mp3.flat",
+        "source": "C:\\Users\\AJAY\\Downloads\\houndify-sdk-1.6.1\\houndify-sample-app\\src\\main\\res\\raw\\sound.mp3"
+    }
+]

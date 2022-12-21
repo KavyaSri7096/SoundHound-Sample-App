@@ -1,0 +1,260 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:2:1-37:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\aaefb5f92be7003066eefcf1a64580e0\transformed\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.4.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\163cbaa81401881794b9642df4961f5d\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\b8eaa45d698c182d96d1c01051712bd0\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\2d046bcec7668645d6312e0059765131\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\f0621c19fd6094d806fe2772a2599975\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\e409744aef1506fe516adcf565c0d67d\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [hound.android:hound-sdk:1.6.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\d0d72daec0b6d1b442e906ff73d27437\transformed\jetified-hound-sdk-1.6.0\AndroidManifest.xml:2:1-15:12
+MERGED from [hound.android:hound-sdk-core:1.6.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\31fd0a797b94ecd26e8d43840d0dd606\transformed\jetified-hound-sdk-core-1.6.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\065f7a738f24627824525165c490407d\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\dab241fe31f05413fe36a59b47710445\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\b03c96eac97f0600feb9edba66a245e9\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\1908e4d7cfa02fd5dca1131151719b2f\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\95d1a83ccc4e4a3296d3672de7f6674e\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\b3137055d24a646ec5a69402618d6f80\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\653751f35cdeed453df20e6c52e03940\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\9c006208f1e01f5f429b2ea6172f81df\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\dd07ad39f5c980cbc524a5b788587b7a\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\d7258bf6478b1a221dfaad3117e794d4\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\4823fedc51d08f4668015d70e3b57d0e\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\6509e82acaf95c8830da3f9f534d45e8\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\9c83df092b14813c35e2357aad3e683b\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.5.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\9bfef590c5ae1099605217105755b44f\transformed\core-1.5.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\7cbf3ba6e41b8a3cd5668cd7b87211b9\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [hound.android:hound-models-legacy:1.4.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\a456a0edc6e08906c58fe0c96bfafeb5\transformed\jetified-hound-models-legacy-1.4.0\AndroidManifest.xml:2:1-11:12
+MERGED from [hound.android:phrasespotter:2.1.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\dae535579cebb8ba1863414224bfc70c\transformed\jetified-phrasespotter-2.1.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\fb8e262c3dce1d831853929c0e02144a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\be37a9a8c9ab373b48cce8bf51968f92\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\c73cdea78b9e0b1295e7e2f218f347c1\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\4397b55c3e77d92028837f9143feece1\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\724b5c13a5b180ddbf8bb29de9b8ca00\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\43cfa9a521c832c50e6b5899dbedead0\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\6c468becf847d86cdde1d0894d0da0ca\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\dac50331f2090747471bf61ddc333659\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\cc175f538065a5e981ba0f6b1a69a382\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\8216001921d7c4ad11c2a7fda7b27ff5\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\1421da204f083203de9be246be8018eb\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\0d2e1633a1893fc5255a6cb54f93f63d\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\5c54be7aca134cffd846b0bc69d2979a\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [soundhound.android:speex:1.3.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\adbc80fc825605f8ecd7aecba610e350\transformed\jetified-speex-1.3.0\AndroidManifest.xml:2:1-13:12
+MERGED from [soundhound.android:ogg-opus-encoder:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\cf114246be59e12635c30a83b3c389dd\transformed\jetified-ogg-opus-encoder-1.0.0\AndroidManifest.xml:2:1-11:12
+MERGED from [soundhound.android:vad:1.2.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\f8784a7ddb9d0011228c5d6f34250d91\transformed\jetified-vad-1.2.0\AndroidManifest.xml:2:1-13:12
+INJECTED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [hound.android:hound-sdk-core:1.6.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\31fd0a797b94ecd26e8d43840d0dd606\transformed\jetified-hound-sdk-core-1.6.0\AndroidManifest.xml:9:5-67
+MERGED from [hound.android:hound-sdk-core:1.6.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\31fd0a797b94ecd26e8d43840d0dd606\transformed\jetified-hound-sdk-core-1.6.0\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:9:22-72
+application
+ADDED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:11:5-35:19
+MERGED from [com.google.android.material:material:1.4.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\163cbaa81401881794b9642df4961f5d\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\163cbaa81401881794b9642df4961f5d\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\b8eaa45d698c182d96d1c01051712bd0\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\b8eaa45d698c182d96d1c01051712bd0\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [hound.android:hound-sdk:1.6.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\d0d72daec0b6d1b442e906ff73d27437\transformed\jetified-hound-sdk-1.6.0\AndroidManifest.xml:9:5-13:19
+MERGED from [hound.android:hound-sdk:1.6.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\d0d72daec0b6d1b442e906ff73d27437\transformed\jetified-hound-sdk-1.6.0\AndroidManifest.xml:9:5-13:19
+MERGED from [androidx.core:core:1.5.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\9bfef590c5ae1099605217105755b44f\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\9bfef590c5ae1099605217105755b44f\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [hound.android:phrasespotter:2.1.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\dae535579cebb8ba1863414224bfc70c\transformed\jetified-phrasespotter-2.1.0\AndroidManifest.xml:10:5-20
+MERGED from [hound.android:phrasespotter:2.1.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\dae535579cebb8ba1863414224bfc70c\transformed\jetified-phrasespotter-2.1.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\fb8e262c3dce1d831853929c0e02144a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\fb8e262c3dce1d831853929c0e02144a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [soundhound.android:speex:1.3.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\adbc80fc825605f8ecd7aecba610e350\transformed\jetified-speex-1.3.0\AndroidManifest.xml:11:5-20
+MERGED from [soundhound.android:speex:1.3.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\adbc80fc825605f8ecd7aecba610e350\transformed\jetified-speex-1.3.0\AndroidManifest.xml:11:5-20
+MERGED from [soundhound.android:vad:1.2.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\f8784a7ddb9d0011228c5d6f34250d91\transformed\jetified-vad-1.2.0\AndroidManifest.xml:11:5-20
+MERGED from [soundhound.android:vad:1.2.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\f8784a7ddb9d0011228c5d6f34250d91\transformed\jetified-vad-1.2.0\AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\9bfef590c5ae1099605217105755b44f\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:15:9-67
+activity#com.houndify.sample.MusicActivity
+ADDED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:16:9-22:20
+	android:exported
+		ADDED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:17:13-42
+meta-data#android.app.lib_name
+ADDED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:19:13-21:36
+	android:value
+		ADDED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:21:17-33
+	android:name
+		ADDED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:20:17-52
+activity#com.houndify.sample.StartActivity
+ADDED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:23:9-31:20
+	android:label
+		ADDED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:25:13-45
+	android:name
+		ADDED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:24:13-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:29:27-74
+activity#com.houndify.sample.HoundifyVoiceSearchWithPhraseSpotterActivity
+ADDED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:32:9-82
+	android:name
+		ADDED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:32:19-79
+activity#com.houndify.sample.CustomVoiceSearchActivity
+ADDED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:33:9-63
+	android:name
+		ADDED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:33:19-60
+activity#com.houndify.sample.CustomTextSearchActivity
+ADDED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:34:9-62
+	android:name
+		ADDED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml:34:19-59
+uses-sdk
+INJECTED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\aaefb5f92be7003066eefcf1a64580e0\transformed\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\aaefb5f92be7003066eefcf1a64580e0\transformed\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.material:material:1.4.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\163cbaa81401881794b9642df4961f5d\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\163cbaa81401881794b9642df4961f5d\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\b8eaa45d698c182d96d1c01051712bd0\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\b8eaa45d698c182d96d1c01051712bd0\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\2d046bcec7668645d6312e0059765131\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\2d046bcec7668645d6312e0059765131\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\f0621c19fd6094d806fe2772a2599975\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\f0621c19fd6094d806fe2772a2599975\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\e409744aef1506fe516adcf565c0d67d\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\e409744aef1506fe516adcf565c0d67d\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [hound.android:hound-sdk:1.6.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\d0d72daec0b6d1b442e906ff73d27437\transformed\jetified-hound-sdk-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [hound.android:hound-sdk:1.6.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\d0d72daec0b6d1b442e906ff73d27437\transformed\jetified-hound-sdk-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [hound.android:hound-sdk-core:1.6.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\31fd0a797b94ecd26e8d43840d0dd606\transformed\jetified-hound-sdk-core-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [hound.android:hound-sdk-core:1.6.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\31fd0a797b94ecd26e8d43840d0dd606\transformed\jetified-hound-sdk-core-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\065f7a738f24627824525165c490407d\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\065f7a738f24627824525165c490407d\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\dab241fe31f05413fe36a59b47710445\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\dab241fe31f05413fe36a59b47710445\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\b03c96eac97f0600feb9edba66a245e9\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\b03c96eac97f0600feb9edba66a245e9\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\1908e4d7cfa02fd5dca1131151719b2f\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\1908e4d7cfa02fd5dca1131151719b2f\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\95d1a83ccc4e4a3296d3672de7f6674e\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\95d1a83ccc4e4a3296d3672de7f6674e\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\b3137055d24a646ec5a69402618d6f80\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\b3137055d24a646ec5a69402618d6f80\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\653751f35cdeed453df20e6c52e03940\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\653751f35cdeed453df20e6c52e03940\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\9c006208f1e01f5f429b2ea6172f81df\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\9c006208f1e01f5f429b2ea6172f81df\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\dd07ad39f5c980cbc524a5b788587b7a\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\dd07ad39f5c980cbc524a5b788587b7a\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\d7258bf6478b1a221dfaad3117e794d4\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\d7258bf6478b1a221dfaad3117e794d4\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\4823fedc51d08f4668015d70e3b57d0e\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\4823fedc51d08f4668015d70e3b57d0e\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\6509e82acaf95c8830da3f9f534d45e8\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\6509e82acaf95c8830da3f9f534d45e8\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\9c83df092b14813c35e2357aad3e683b\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\9c83df092b14813c35e2357aad3e683b\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\9bfef590c5ae1099605217105755b44f\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\9bfef590c5ae1099605217105755b44f\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\7cbf3ba6e41b8a3cd5668cd7b87211b9\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\7cbf3ba6e41b8a3cd5668cd7b87211b9\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [hound.android:hound-models-legacy:1.4.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\a456a0edc6e08906c58fe0c96bfafeb5\transformed\jetified-hound-models-legacy-1.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [hound.android:hound-models-legacy:1.4.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\a456a0edc6e08906c58fe0c96bfafeb5\transformed\jetified-hound-models-legacy-1.4.0\AndroidManifest.xml:7:5-9:41
+MERGED from [hound.android:phrasespotter:2.1.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\dae535579cebb8ba1863414224bfc70c\transformed\jetified-phrasespotter-2.1.0\AndroidManifest.xml:6:5-8:41
+MERGED from [hound.android:phrasespotter:2.1.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\dae535579cebb8ba1863414224bfc70c\transformed\jetified-phrasespotter-2.1.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\fb8e262c3dce1d831853929c0e02144a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\fb8e262c3dce1d831853929c0e02144a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\be37a9a8c9ab373b48cce8bf51968f92\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\be37a9a8c9ab373b48cce8bf51968f92\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\c73cdea78b9e0b1295e7e2f218f347c1\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\c73cdea78b9e0b1295e7e2f218f347c1\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\4397b55c3e77d92028837f9143feece1\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\4397b55c3e77d92028837f9143feece1\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\724b5c13a5b180ddbf8bb29de9b8ca00\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\724b5c13a5b180ddbf8bb29de9b8ca00\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\43cfa9a521c832c50e6b5899dbedead0\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\43cfa9a521c832c50e6b5899dbedead0\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\6c468becf847d86cdde1d0894d0da0ca\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\6c468becf847d86cdde1d0894d0da0ca\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\dac50331f2090747471bf61ddc333659\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\dac50331f2090747471bf61ddc333659\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\cc175f538065a5e981ba0f6b1a69a382\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\cc175f538065a5e981ba0f6b1a69a382\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\8216001921d7c4ad11c2a7fda7b27ff5\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\8216001921d7c4ad11c2a7fda7b27ff5\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\1421da204f083203de9be246be8018eb\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\1421da204f083203de9be246be8018eb\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\0d2e1633a1893fc5255a6cb54f93f63d\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\0d2e1633a1893fc5255a6cb54f93f63d\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\5c54be7aca134cffd846b0bc69d2979a\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\5c54be7aca134cffd846b0bc69d2979a\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [soundhound.android:speex:1.3.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\adbc80fc825605f8ecd7aecba610e350\transformed\jetified-speex-1.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [soundhound.android:speex:1.3.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\adbc80fc825605f8ecd7aecba610e350\transformed\jetified-speex-1.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [soundhound.android:ogg-opus-encoder:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\cf114246be59e12635c30a83b3c389dd\transformed\jetified-ogg-opus-encoder-1.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [soundhound.android:ogg-opus-encoder:1.0.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\cf114246be59e12635c30a83b3c389dd\transformed\jetified-ogg-opus-encoder-1.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [soundhound.android:vad:1.2.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\f8784a7ddb9d0011228c5d6f34250d91\transformed\jetified-vad-1.2.0\AndroidManifest.xml:7:5-9:41
+MERGED from [soundhound.android:vad:1.2.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\f8784a7ddb9d0011228c5d6f34250d91\transformed\jetified-vad-1.2.0\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\AJAY\Downloads\houndify-sdk-1.6.1\houndify-sample-app\src\main\AndroidManifest.xml
+activity#com.hound.android.fd.HoundifyVoiceSearchActivity
+ADDED from [hound.android:hound-sdk:1.6.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\d0d72daec0b6d1b442e906ff73d27437\transformed\jetified-hound-sdk-1.6.0\AndroidManifest.xml:10:9-12:56
+	android:theme
+		ADDED from [hound.android:hound-sdk:1.6.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\d0d72daec0b6d1b442e906ff73d27437\transformed\jetified-hound-sdk-1.6.0\AndroidManifest.xml:12:13-53
+	android:name
+		ADDED from [hound.android:hound-sdk:1.6.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\d0d72daec0b6d1b442e906ff73d27437\transformed\jetified-hound-sdk-1.6.0\AndroidManifest.xml:11:13-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [hound.android:hound-sdk-core:1.6.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\31fd0a797b94ecd26e8d43840d0dd606\transformed\jetified-hound-sdk-core-1.6.0\AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from [hound.android:hound-sdk-core:1.6.0] C:\Program Files\Java\jdk-18.0.2\caches\transforms-3\31fd0a797b94ecd26e8d43840d0dd606\transformed\jetified-hound-sdk-core-1.6.0\AndroidManifest.xml:10:22-73
